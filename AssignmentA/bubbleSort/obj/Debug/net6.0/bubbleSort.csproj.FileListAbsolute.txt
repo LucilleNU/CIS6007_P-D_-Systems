@@ -1,0 +1,15 @@
+/Users/lucillenawa/Desktop/AssignmentA/bubbleSort/bin/Debug/net6.0/bubbleSort
+/Users/lucillenawa/Desktop/AssignmentA/bubbleSort/bin/Debug/net6.0/bubbleSort.deps.json
+/Users/lucillenawa/Desktop/AssignmentA/bubbleSort/bin/Debug/net6.0/bubbleSort.runtimeconfig.json
+/Users/lucillenawa/Desktop/AssignmentA/bubbleSort/bin/Debug/net6.0/bubbleSort.dll
+/Users/lucillenawa/Desktop/AssignmentA/bubbleSort/bin/Debug/net6.0/bubbleSort.pdb
+/Users/lucillenawa/Desktop/AssignmentA/bubbleSort/obj/Debug/net6.0/bubbleSort.csproj.AssemblyReference.cache
+/Users/lucillenawa/Desktop/AssignmentA/bubbleSort/obj/Debug/net6.0/bubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucillenawa/Desktop/AssignmentA/bubbleSort/obj/Debug/net6.0/bubbleSort.AssemblyInfoInputs.cache
+/Users/lucillenawa/Desktop/AssignmentA/bubbleSort/obj/Debug/net6.0/bubbleSort.AssemblyInfo.cs
+/Users/lucillenawa/Desktop/AssignmentA/bubbleSort/obj/Debug/net6.0/bubbleSort.csproj.CoreCompileInputs.cache
+/Users/lucillenawa/Desktop/AssignmentA/bubbleSort/obj/Debug/net6.0/bubbleSort.dll
+/Users/lucillenawa/Desktop/AssignmentA/bubbleSort/obj/Debug/net6.0/refint/bubbleSort.dll
+/Users/lucillenawa/Desktop/AssignmentA/bubbleSort/obj/Debug/net6.0/bubbleSort.pdb
+/Users/lucillenawa/Desktop/AssignmentA/bubbleSort/obj/Debug/net6.0/bubbleSort.genruntimeconfig.cache
+/Users/lucillenawa/Desktop/AssignmentA/bubbleSort/obj/Debug/net6.0/ref/bubbleSort.dll

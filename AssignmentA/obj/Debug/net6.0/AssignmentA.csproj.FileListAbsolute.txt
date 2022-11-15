@@ -1,0 +1,5 @@
+/Users/lucillenawa/Desktop/AssignmentA/obj/Debug/net6.0/AssignmentA.csproj.AssemblyReference.cache
+/Users/lucillenawa/Desktop/AssignmentA/obj/Debug/net6.0/AssignmentA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucillenawa/Desktop/AssignmentA/obj/Debug/net6.0/AssignmentA.AssemblyInfoInputs.cache
+/Users/lucillenawa/Desktop/AssignmentA/obj/Debug/net6.0/AssignmentA.AssemblyInfo.cs
+/Users/lucillenawa/Desktop/AssignmentA/obj/Debug/net6.0/AssignmentA.csproj.CoreCompileInputs.cache

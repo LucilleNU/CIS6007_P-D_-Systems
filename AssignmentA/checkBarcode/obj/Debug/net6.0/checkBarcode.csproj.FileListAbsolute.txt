@@ -1,0 +1,15 @@
+/Users/lucillenawa/Desktop/AssignmentA/checkBarcode/bin/Debug/net6.0/checkBarcode
+/Users/lucillenawa/Desktop/AssignmentA/checkBarcode/bin/Debug/net6.0/checkBarcode.deps.json
+/Users/lucillenawa/Desktop/AssignmentA/checkBarcode/bin/Debug/net6.0/checkBarcode.runtimeconfig.json
+/Users/lucillenawa/Desktop/AssignmentA/checkBarcode/bin/Debug/net6.0/checkBarcode.dll
+/Users/lucillenawa/Desktop/AssignmentA/checkBarcode/bin/Debug/net6.0/checkBarcode.pdb
+/Users/lucillenawa/Desktop/AssignmentA/checkBarcode/obj/Debug/net6.0/checkBarcode.csproj.AssemblyReference.cache
+/Users/lucillenawa/Desktop/AssignmentA/checkBarcode/obj/Debug/net6.0/checkBarcode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucillenawa/Desktop/AssignmentA/checkBarcode/obj/Debug/net6.0/checkBarcode.AssemblyInfoInputs.cache
+/Users/lucillenawa/Desktop/AssignmentA/checkBarcode/obj/Debug/net6.0/checkBarcode.AssemblyInfo.cs
+/Users/lucillenawa/Desktop/AssignmentA/checkBarcode/obj/Debug/net6.0/checkBarcode.csproj.CoreCompileInputs.cache
+/Users/lucillenawa/Desktop/AssignmentA/checkBarcode/obj/Debug/net6.0/checkBarcode.dll
+/Users/lucillenawa/Desktop/AssignmentA/checkBarcode/obj/Debug/net6.0/refint/checkBarcode.dll
+/Users/lucillenawa/Desktop/AssignmentA/checkBarcode/obj/Debug/net6.0/checkBarcode.pdb
+/Users/lucillenawa/Desktop/AssignmentA/checkBarcode/obj/Debug/net6.0/checkBarcode.genruntimeconfig.cache
+/Users/lucillenawa/Desktop/AssignmentA/checkBarcode/obj/Debug/net6.0/ref/checkBarcode.dll
