@@ -12,10 +12,10 @@ namespace PD_Exam
             const int N = 100;
             const int max = 10000;
 
-            // Create an unsorted array of numbers
+            // Creating an unsorted array of numbers
             int[] numbers = Enumerable.Range(0, max).ToArray();
 
-            // Shuffle the array to make it unsorted
+            // Shuffleing the array to make it unsorted
             Random random = new Random();
             for (int i = 0; i < numbers.Length; i++)
             {
@@ -28,7 +28,7 @@ namespace PD_Exam
             // Find a number bigger than N using a parallel algorithm
             int output = FindNumberBiggerThanN(numbers, N);
 
-            // Print or display the result
+            // Print or display the output
             Console.WriteLine($"Found a number bigger than {N}: {output}");
         }
 
@@ -38,7 +38,7 @@ namespace PD_Exam
             int output = 0;
             Parallel.For(0, numbers.Length, (i) =>
             {
-                // If a number is found, set the result and exit the loop
+                // If a number is found, set the output and exit the loop
                 if (numbers[i] > N)
                 {
                     output = numbers[i];
