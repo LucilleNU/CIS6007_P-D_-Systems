@@ -1,0 +1,30 @@
+/Users/lucillenawa/Desktop/PD_Exam/bin/Debug/net7.0/PD_Exam
+/Users/lucillenawa/Desktop/PD_Exam/bin/Debug/net7.0/PD_Exam.deps.json
+/Users/lucillenawa/Desktop/PD_Exam/bin/Debug/net7.0/PD_Exam.runtimeconfig.json
+/Users/lucillenawa/Desktop/PD_Exam/bin/Debug/net7.0/PD_Exam.dll
+/Users/lucillenawa/Desktop/PD_Exam/bin/Debug/net7.0/PD_Exam.pdb
+/Users/lucillenawa/Desktop/PD_Exam/obj/Debug/net7.0/PD_Exam.csproj.AssemblyReference.cache
+/Users/lucillenawa/Desktop/PD_Exam/obj/Debug/net7.0/PD_Exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucillenawa/Desktop/PD_Exam/obj/Debug/net7.0/PD_Exam.AssemblyInfoInputs.cache
+/Users/lucillenawa/Desktop/PD_Exam/obj/Debug/net7.0/PD_Exam.AssemblyInfo.cs
+/Users/lucillenawa/Desktop/PD_Exam/obj/Debug/net7.0/PD_Exam.csproj.CoreCompileInputs.cache
+/Users/lucillenawa/Desktop/PD_Exam/obj/Debug/net7.0/PD_Exam.dll
+/Users/lucillenawa/Desktop/PD_Exam/obj/Debug/net7.0/refint/PD_Exam.dll
+/Users/lucillenawa/Desktop/PD_Exam/obj/Debug/net7.0/PD_Exam.pdb
+/Users/lucillenawa/Desktop/PD_Exam/obj/Debug/net7.0/PD_Exam.genruntimeconfig.cache
+/Users/lucillenawa/Desktop/PD_Exam/obj/Debug/net7.0/ref/PD_Exam.dll
+/Users/lucillenawa/Desktop/P & D_ Systems/PD_Exam/bin/Debug/net7.0/PD_Exam
+/Users/lucillenawa/Desktop/P & D_ Systems/PD_Exam/bin/Debug/net7.0/PD_Exam.deps.json
+/Users/lucillenawa/Desktop/P & D_ Systems/PD_Exam/bin/Debug/net7.0/PD_Exam.runtimeconfig.json
+/Users/lucillenawa/Desktop/P & D_ Systems/PD_Exam/bin/Debug/net7.0/PD_Exam.dll
+/Users/lucillenawa/Desktop/P & D_ Systems/PD_Exam/bin/Debug/net7.0/PD_Exam.pdb
+/Users/lucillenawa/Desktop/P & D_ Systems/PD_Exam/obj/Debug/net7.0/PD_Exam.csproj.AssemblyReference.cache
+/Users/lucillenawa/Desktop/P & D_ Systems/PD_Exam/obj/Debug/net7.0/PD_Exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucillenawa/Desktop/P & D_ Systems/PD_Exam/obj/Debug/net7.0/PD_Exam.AssemblyInfoInputs.cache
+/Users/lucillenawa/Desktop/P & D_ Systems/PD_Exam/obj/Debug/net7.0/PD_Exam.AssemblyInfo.cs
+/Users/lucillenawa/Desktop/P & D_ Systems/PD_Exam/obj/Debug/net7.0/PD_Exam.csproj.CoreCompileInputs.cache
+/Users/lucillenawa/Desktop/P & D_ Systems/PD_Exam/obj/Debug/net7.0/PD_Exam.dll
+/Users/lucillenawa/Desktop/P & D_ Systems/PD_Exam/obj/Debug/net7.0/refint/PD_Exam.dll
+/Users/lucillenawa/Desktop/P & D_ Systems/PD_Exam/obj/Debug/net7.0/PD_Exam.pdb
+/Users/lucillenawa/Desktop/P & D_ Systems/PD_Exam/obj/Debug/net7.0/PD_Exam.genruntimeconfig.cache
+/Users/lucillenawa/Desktop/P & D_ Systems/PD_Exam/obj/Debug/net7.0/ref/PD_Exam.dll
